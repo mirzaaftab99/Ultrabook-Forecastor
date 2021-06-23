@@ -1,5 +1,5 @@
 # Ultrabook-Forecastor
-I've tried to build a ultra book (slim laptop) cost prediction model. 
+I've tried to build an ultra book (slim laptop) cost prediction model. 
 
 
 The end project to be submitted for my Data Analyst Internship with ShapeAI (2021).
