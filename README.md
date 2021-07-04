@@ -1,4 +1,4 @@
-# Ultrabook-Forecastor
+# Ultrabook_Forecastor
 I've tried to build an ultra book (slim laptop) cost prediction model. 
 
 
